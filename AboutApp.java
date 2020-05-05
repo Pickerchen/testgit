@@ -47,6 +47,7 @@ public class AboutApp extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 onBackPressed();
+		Log.d(TAG,"nothing to do");:
             }
         });
 
